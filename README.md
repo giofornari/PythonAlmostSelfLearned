@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> Repo archiviata: il contenuto, con tutta la history, ora vive in **[giofornari/School](https://github.com/giofornari/School)**.
+
 # Python School Experiments
 
 ![Python](https://img.shields.io/badge/Made%20with-Python-4B8BBE?logo=python&logoColor=yellow&style=flat-square)
